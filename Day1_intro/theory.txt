@@ -1,0 +1,20 @@
+python is a programing languge
+
+language: sharing thoughts between person,people
+promgram:set of insructiions to complete a task is program
+
+what is a programing language:
+1.low level programing: 
+ a.binary language
+ b.cobal or pascal assembly level language
+
+2.High level languages:(english)
+ a. genral purpose language
+ b. special language
+ c. scripting lanuage
+
+ 1.compiler:
+ 2. intorpreter:
+ 3.highbrid
+
+ 
